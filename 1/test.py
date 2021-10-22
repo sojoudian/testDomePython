@@ -1,0 +1,1 @@
+print(symbolic_to_octal('rwxr-x-w-'))
